@@ -1,0 +1,24 @@
+#block2 
+{ 
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.image-1{
+    max-width: 400px;
+}
+
+.image-2{
+    max-width: 400px;
+    
+}
+
+.param-1 {
+    margin-top:50px!important;
+    font-size:20px;
+}
+
+.param-2 {
+    margin-top:80px!important;
+    font-size:20px;
+}

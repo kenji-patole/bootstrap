@@ -1,0 +1,10 @@
+LES DIFFÉRENTES CATÉGORIES DE TAILLE D'ÉCRAN
+
+**************************************************************
+xs < 576px          TRES PETITE
+xs : ce sont toutes les largeurs de viewport qui sont < 576 px
+***************************************************************
+sm >= 576px         PETITE
+md >= 768px         MOYENNE  
+lg >= 992px         GRANDE
+xl >= 1200px        TRES GRANDE

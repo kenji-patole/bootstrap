@@ -9,7 +9,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js"></script>
 		<title>Materiel.net</title>
     </head>
-    <body>
+<body>
 	<div class="main">
         <div class="container-fluid">
 			<div class="row">
@@ -51,7 +51,7 @@
 				</div>	
         </div>
 	</div>
-    </body>
+</body>
 
 
 </html>
